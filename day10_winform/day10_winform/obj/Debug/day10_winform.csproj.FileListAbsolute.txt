@@ -1,0 +1,10 @@
+C:\Users\sarun\OneDrive\works\edu\edu267\42540164-g2\csfiles\day10_winform\day10_winform\bin\Debug\day10_winform.exe.config
+C:\Users\sarun\OneDrive\works\edu\edu267\42540164-g2\csfiles\day10_winform\day10_winform\bin\Debug\day10_winform.exe
+C:\Users\sarun\OneDrive\works\edu\edu267\42540164-g2\csfiles\day10_winform\day10_winform\bin\Debug\day10_winform.pdb
+C:\Users\sarun\OneDrive\works\edu\edu267\42540164-g2\csfiles\day10_winform\day10_winform\obj\Debug\day10_winform.csproj.AssemblyReference.cache
+C:\Users\sarun\OneDrive\works\edu\edu267\42540164-g2\csfiles\day10_winform\day10_winform\obj\Debug\day10_winform.Form1.resources
+C:\Users\sarun\OneDrive\works\edu\edu267\42540164-g2\csfiles\day10_winform\day10_winform\obj\Debug\day10_winform.Properties.Resources.resources
+C:\Users\sarun\OneDrive\works\edu\edu267\42540164-g2\csfiles\day10_winform\day10_winform\obj\Debug\day10_winform.csproj.GenerateResource.cache
+C:\Users\sarun\OneDrive\works\edu\edu267\42540164-g2\csfiles\day10_winform\day10_winform\obj\Debug\day10_winform.csproj.CoreCompileInputs.cache
+C:\Users\sarun\OneDrive\works\edu\edu267\42540164-g2\csfiles\day10_winform\day10_winform\obj\Debug\day10_winform.exe
+C:\Users\sarun\OneDrive\works\edu\edu267\42540164-g2\csfiles\day10_winform\day10_winform\obj\Debug\day10_winform.pdb
